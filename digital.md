@@ -1,8 +1,6 @@
 # 디지털 시계
 
 
-## 전체코드
-![image](https://user-images.githubusercontent.com/102014376/174729459-60b519e6-2b45-4a82-ad01-66418205ec47.png)
 
 ### html에 만들었고 css와 자바 스크립트를 이용해 계산과 홈페이지에 보일 텍스트를 꾸밈.
 
