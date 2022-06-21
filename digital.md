@@ -16,7 +16,7 @@
 
 ## 2. 자바 스크립트를 사용해 시와 분, 초를 나오게 만듦.
 ![image](https://user-images.githubusercontent.com/102014376/174729923-5198e0ab-1f1b-436d-9ffb-4fe13acf2073.png)
-### elementbyid로 time과 go, stop을 변수에 지정해줌.
+### DOM을 이용해 time과 go, stop을 변수에 지정해줌.
 ![image](https://user-images.githubusercontent.com/102014376/174738610-98b45f03-412d-4d97-8ae9-705cd75908b9.png)
 ## onclick 으로 go 와 stop으로 handleId에 들어갈 값을 지정.
 ![image](https://user-images.githubusercontent.com/102014376/174738767-0f558a9b-ac85-4fb8-bf4c-0f68f30364e8.png)
