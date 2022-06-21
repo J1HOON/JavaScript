@@ -9,17 +9,27 @@
 ## 1. CCS를 이용해서 시간이 나오는 부분과 버튼을 가운데로 맞춰주고 시간이 나올 곳을 검은색 선으로 강조시킴.
 ![image](https://user-images.githubusercontent.com/102014376/174729661-a0466b7c-ba50-4e6a-8e52-ac41ffec38a3.png)
 #### ---------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/102014376/174736081-27957109-0005-40a3-983a-fcdca47dc497.png)
 ### 시간이 나오는 곳에 윤곽선을 만들어 줌.
+![image](https://user-images.githubusercontent.com/102014376/174736081-27957109-0005-40a3-983a-fcdca47dc497.png)
+
 
 
 ## 2. 자바 스크립트를 사용해 시와 분, 초를 나오게 만듦.
 ![image](https://user-images.githubusercontent.com/102014376/174729923-5198e0ab-1f1b-436d-9ffb-4fe13acf2073.png)
-
+### elementbyid로 time과 go, stop을 변수에 지정해줌.
+![image](https://user-images.githubusercontent.com/102014376/174738610-98b45f03-412d-4d97-8ae9-705cd75908b9.png)
+## onclick 으로 go 와 stop으로 handleId에 들어갈 값을 지정.
+![image](https://user-images.githubusercontent.com/102014376/174738767-0f558a9b-ac85-4fb8-bf4c-0f68f30364e8.png)
 
 
 ## 3. html로 웹에 나올 버튼과 시간이 출력될 블럭을 만들어 줌.
 ![image](https://user-images.githubusercontent.com/102014376/174730111-c8e32198-c1b3-402d-8253-8289be28cfe5.png)
+### div에 CSS로 만든 클래스를 넣어 시간이 나오는 곳을 꾸밈.
+![image](https://user-images.githubusercontent.com/102014376/174739279-e902251d-5568-4334-8ebb-5c3a6713f278.png)
+
+### go와 stop버튼을 만듦.
+![image](https://user-images.githubusercontent.com/102014376/174739191-f32b9179-742e-460a-9e4b-0c90ded4e231.png)
+
 
 ## 출력
 ![image](https://user-images.githubusercontent.com/102014376/174737711-3e3ecfbf-4c74-41d0-8236-51e404667cc2.png)
